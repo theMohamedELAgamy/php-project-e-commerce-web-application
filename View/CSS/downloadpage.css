@@ -1,0 +1,39 @@
+body {
+  /* background-image: url("image.jpg"); */
+  background-image: url("image.jpg");
+  background-size: 2000px;
+}
+.container {
+  margin: auto;
+  margin-top: 70px;
+  width: 320px;
+  height: 300px;
+  padding: 16px;
+  color: black;
+  border: 1px solid black;
+  border-radius: 16px;
+  background: #efefef;
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+h1 {
+  color: #555;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+button {
+  margin: 24px 32%;
+  font-size: 16px;
+  font-weight: bold;
+  background: #04aa6d;
+  color: #fff;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+}

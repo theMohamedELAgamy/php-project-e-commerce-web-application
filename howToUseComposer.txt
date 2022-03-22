@@ -1,0 +1,3 @@
+composer install --> run for the first time
+composer update --> if you did any update in the composer.json 
+composer dump-autoload --> if any error
